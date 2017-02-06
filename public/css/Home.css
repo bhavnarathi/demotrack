@@ -1,0 +1,24 @@
+/*css document*/
+
+
+body{ font-family:Helvetica,Arial; font-size: 16px; color:#555; margin:0; padding:0; }
+#page { max-width: 1200px; margin: 0 auto; position:relative;background-color:FFF;}
+/* Text */
+
+header { height:50px; background-color:rgba(0,0,0,0.7);position:relative; font-size:1.5em;color:#FFF;}
+header span{ width:100px;height:40px;background-color:red;}
+
+h1 {margin:0 0 1em 0; font-size:2.8em; font-weight:700; }
+h2 {margin:0 0 .5em 0; font-size:1.6em; font-weight:700; line-height:1.1em; }
+h3 {margin:0 0 .5em 0; font-size:1.3em; font-weight:700; }
+h4 {margin:0 0 1.5em 0; font-size:1em; font-weight:700; }
+p { margin: 0 0 1em 0;}
+
+/* sign_up */
+
+#form_s { width:400px;height:200px;background-color:rgba(0,0,0,0.5);margin:70px auto;padding-top:30px;}
+
+/*inputs*/
+
+input { font-size:15px;width:325px; padding:10px 10px; margin:5px auto;margin-left:25px;border:none;}
+input[type=submit] { width:345px;}
